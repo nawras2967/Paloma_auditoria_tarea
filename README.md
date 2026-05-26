@@ -1,2 +1,2 @@
-# Paloma_auditoria_tarea
+# Tareas hechas de auditoria
 Tarea de Auditoria. 
